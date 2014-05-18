@@ -7,3 +7,5 @@ Maestro v4 Engine is currently under constuction. Main idea of this engine is to
 * Special classes would be responsible for SQL queries, allowing them to build in Doctrine2 way making SQL requests more secure and Object-Oriented and standartized. Later on they would be extended for working with PostgreSQL, MSSQL and Oracle.
 * Application tests would be implemented in PhpUnit test style. However, unlike unit-tests they would be run in single file and should run faster
 * jQuery GUI would be implemented allowing to create, delete, edit, sort, surf pages without site reload. Some other nice features like saving via CTRL+S or browsing images via arrow keys would be implemented too. 
+
+For detailed description of V1 engine please refer 'engine' repository.
